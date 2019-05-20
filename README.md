@@ -2,8 +2,10 @@
 
 Links to get the idea behind a RNN. In this algo is used a LSTM  (Long short-term memory)
 
-http://colah.github.io/posts/2015-08-Understanding-LSTMs/
-http://blog.echen.me/2017/05/30/exploring-lstms/
+1. http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+
+2. http://blog.echen.me/2017/05/30/exploring-lstms/
 
 Set-Up Dev Enviroment
 
