@@ -20,5 +20,5 @@ I used the following tutorial for installation in a Ubuntu Machine, but i instal
 
 https://www.pugetsystems.com/labs/hpc/Install-TensorFlow-with-GPU-Support-the-Easy-Way-on-Ubuntu-18-04-without-installing-CUDA-1170/
 
-NOTE: Be sure to create a Kernel where to run the algo. That kernel must be shown in your Jypiter notebook ( maybe fro most of u guys out here is evident for me took me a lot of night to get to that point :v)
+NOTE: Be sure to create a Kernel where to run the algo. That kernel must be shown in your Jypiter notebook ( maybe for most of u guys out here is evident, me.. took me a couples of nights to get to that point :v)
 
