@@ -1,4 +1,4 @@
-# Cryptocurrency-chages-forecastin-by-using-DL-
+# Cryptocurrency-charges-forecastin-by-using-DL-
 
 Links to get the idea behind a RNN. In this algo is used a LSTM  (Long short-term memory)
 
